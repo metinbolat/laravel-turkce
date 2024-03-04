@@ -1,0 +1,36 @@
+{
+    "name": "metin/laravel-turkce",
+    "description": "Laravel Türkçe dil dosyaları",
+    "keywords": [
+        "laravel",
+        "localization",
+        "language",
+        "türkçe",
+        "translation",
+        "turkish"
+    ],
+    "require": {
+        "illuminate/support": "^10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "LaravelTr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Metin",
+            "email": "metinnbolatt@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "extra": {
+        "laravel": {
+            "providers": [
+                "LaravelTr\\AppServiceProvider"
+            ]
+        }
+    }
+}
