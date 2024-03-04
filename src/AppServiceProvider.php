@@ -1,6 +1,6 @@
 <?php
 
-namespace Metin;
+namespace LaravelTr;
 
 use Illuminate\Support\ServiceProvider;
 
