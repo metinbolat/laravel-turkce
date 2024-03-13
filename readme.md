@@ -1,4 +1,4 @@
-# Laravel Türkçe Dil Paketi
+# Laravel 11 Türkçe Dil Paketi
 
 Bu paket, Laravel framework'ünün dil dosyalarının Türkçe çevirilerini içerir. Çeviriler, Laravel'in varsayılan dil dosyalarına oldukça sadık kalarak yapılmış ve mümkün olduğunca açık ve anlaşılır bir Türkçe kullanılmıştır. Dosyalardaki yorum satırları olduğu gibi bırakılmıştır. Laravel 10 sürümünün dil dosyaları baz alınmıştır.
 
