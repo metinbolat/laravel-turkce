@@ -1,5 +1,6 @@
 {
     "name": "metin/laravel-turkce",
+    "version": "1.0.0",
     "description": "Laravel Türkçe dil dosyaları",
     "keywords": [
         "laravel",

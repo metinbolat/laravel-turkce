@@ -76,6 +76,7 @@ return [
     'ipv4' => ':attribute geçerli bir IPv4 adresi olmalıdır.',
     'ipv6' => ':attribute geçerli bir IPv6 adresi olmalıdır.',
     'json' => ':attribute geçerli bir JSON dizesi olmalıdır.',
+    'list' => ':attribute bir liste olmalıdır.',
     'lowercase' => ':attribute küçük harf olmalıdır.',
     'lt' => [
         'array' => ':attribute, :value adetten az olmalıdır..',
